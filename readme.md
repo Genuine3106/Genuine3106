@@ -1,3 +1,4 @@
 - Hello my name is EpicGamer45, but my github is Manny Pardo 3106. (Its one of my old usernames that isn't taken)
 - My discord is EpicGamer45#9027 (contact me if you want, but I have no idea why you would)
 - I just do coding for fun, I dont have any intentions for monetization
+- I used to do only C#, but I'm gonna move onto Java.
