@@ -6,3 +6,6 @@
 - I make programs for fun
 - I know C# and Java
 - Discord: EpicGamer45#9027
+
+If you want to know all of my known usernames, here you go:
+https://github.com/Encycling/Encycling/blob/main/MyUsernames.md
