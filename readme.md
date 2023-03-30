@@ -9,3 +9,5 @@
 
 If you want to know all of my known usernames, here you go:
 https://github.com/Encycling/Encycling/blob/main/MyUsernames.md
+
+(I'm still kinda learning coding but I'm a bit less interested in it now. Maybe as time passes I'll build something actually useful or cool.)
