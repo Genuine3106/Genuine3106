@@ -1,13 +1,4 @@
 # Hi, my name is Encycling
-- You might also see me as: Digit0, EpicGamer45, MannyPardo3106 (Or MannyPardo45)
-- Learned programming when I was in 6th grade or something
-- I was 13 years old when I made this account.
-- My current age is 14.
-- I make programs for fun
-- I know C# and Java
-- Discord: EpicGamer45#9027
-
-If you want to know all of my known usernames, here you go:
-https://github.com/Encycling/Encycling/blob/main/MyUsernames.md
-
-(I'm still kinda learning coding but I'm a bit less interested in it now. Maybe as time passes I'll build something actually useful or cool.)
+born in late 2008 (currently 14) <br />
+learned coding in late 2021 - early 2022 <br />
+not very skilled <br />
